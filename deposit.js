@@ -48,3 +48,4 @@ async function depositToEtherBridge() {
 }
 
 depositToEtherBridge();
+node deposit.js 2pxtjoyp48WBrj4k4BDnk9gK6RgQfFUcGh2XaNYdCEM9 0x7C9e161ebe55000a3220F972058Fb83273653a6e 1500000 100 351da7f9bf0820b051e06fc1bfcfecd9a9007f6ab41dbbcce7dda990dbc5e3eb https://rpc.sepolia.org
